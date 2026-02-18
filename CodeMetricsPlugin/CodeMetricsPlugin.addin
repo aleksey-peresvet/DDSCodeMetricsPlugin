@@ -1,0 +1,36 @@
+﻿<AddIn name        = "CodeMetrics"
+       author      = "Rosa"
+       copyright   = "© 2026"
+       description = "Анализ метрик качества кода"
+       version     = "1.0">
+
+  <Manifest>
+    <Identity name = "CodeMetricsPlugin"/>
+  </Manifest>
+  
+  <Runtime>
+    <Import assembly="CodeMetricsPlugin.dll"/>
+  </Runtime>
+  
+  <Path name="/SharpDevelop/Workbench/Pads">
+    <Pad id        = "CodeMetricsPad"
+         label     = "Code Metrics"
+         class     = "CodeMetrics.MetricsPad"
+		 icon      = "Icons.16x16.FindIcon" />
+  </Path>
+  
+  <Path name="/SharpDevelop/Workbench/MainMenu/Tools">
+    <MenuItem id       = "CodeMetricsAnalyze"
+              label    = "Analyze Code Metrics"
+              class    = "CodeMetrics.MetricsCommand"
+              shortcut = "Ctrl+Shift+Z" />
+              
+  </Path>
+
+  <Path name="/SharpDevelop/Workbench/MainMenu/View">
+    <MenuItem id    = "ViewCodeMetricsPad"
+              label = "Code Metrics Pad"
+              class = "CodeMetrics.MetricsCommand"
+	          icon  = "Icons.16x16.FindIcon" />
+  </Path>
+</AddIn>

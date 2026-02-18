@@ -1,0 +1,16 @@
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\CodeMetricsPlugin.addin
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\CodeMetricsPlugin.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\CodeMetricsPlugin.pdb
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.Core.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.SharpDevelop.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.SharpDevelop.Dom.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.Core.Presentation.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.SharpDevelop.Widgets.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.Core.WinForms.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\ICSharpCode.AvalonEdit4.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\AvalonDock.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\bin\Debug\log4net.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\obj\x86\Debug\CodeMetricsPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\obj\x86\Debug\CodeMetricsPlugin.dll
+C:\Users\Администратор\Documents\SharpDevelop Projects\CodeMetricsPlugin\CodeMetricsPlugin\obj\x86\Debug\CodeMetricsPlugin.pdb
